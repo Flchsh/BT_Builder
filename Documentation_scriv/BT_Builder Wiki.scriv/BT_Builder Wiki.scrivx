@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.5.0" Device="Athigria" Modified="2016-07-25 17:13:47 +0300" ModID="31A1A422-F7B9-4567-869E-5506F18DDDFD">
+    <Binder>
+        <BinderItem ID="0" UUID="C279E55E-C65D-4585-B8AB-E48E6F72FBBB" Created="2016-07-25 12:53:53 +0300" Modified="2016-07-25 12:53:53 +0300" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="44" UUID="5DA91A8A-F246-4494-8013-86B4B6ABE91D" Created="2016-07-25 14:40:46 +0300" Modified="2016-07-25 15:33:08 +0300" Type="Folder">
+                    <Title>How To Use BT Builder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="3" UUID="95994F58-D7F4-4043-A4F1-F9457DA0952B" Created="2016-07-25 12:53:53 +0300" Modified="2016-07-25 15:09:50 +0300" Type="Text">
+                            <Title>Adding Behavior Component</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>30,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="45" UUID="E35F020F-A096-4E4E-B234-0D6BBE544BE1" Created="2016-07-25 14:42:21 +0300" Modified="2016-07-25 14:47:36 +0300" Type="Text">
+                                    <Title>Component menu</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>122,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="46" UUID="26A09EA5-8F13-462C-820A-C69706FD459C" Created="2016-07-25 14:42:21 +0300" Modified="2016-07-25 14:52:08 +0300" Type="Text">
+                                    <Title>Inspector</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>207,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="C859B1CB-28D7-42CF-859C-9ED3018666A0" Created="2016-07-25 14:52:25 +0300" Modified="2016-07-25 15:12:45 +0300" Type="Text">
+                            <Title>Assigning a Behavior File</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>169,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="48" UUID="B312B2EA-5E42-4983-B5F4-424DC4E3E54D" Created="2016-07-25 14:54:26 +0300" Modified="2016-07-25 16:42:40 +0300" Type="Text">
+                                    <Title>Edit Tree File</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>924,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="49" UUID="4D49589E-A6DE-4253-8B6A-251095DAB6CC" Created="2016-07-25 14:54:27 +0300" Modified="2016-07-25 15:30:19 +0300" Type="Text">
+                                    <Title>Choose file from folder</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>262,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="7" UUID="8CFCBCC0-02FD-47F9-B458-46E2562675F0" Created="2016-07-25 12:55:12 +0300" Modified="2016-07-25 12:55:50 +0300" Type="Folder">
+                    <Title>Editor Window</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="43" UUID="CEE881C9-6C6A-4C51-BD88-888EC9ACB01C" Created="2016-07-25 14:39:57 +0300" Modified="2016-07-25 17:13:45 +0300" Type="Text">
+                            <Title>Editor View</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="6" UUID="7E2D0C80-2C61-4858-869A-EDD7556CC376" Created="2016-07-25 12:54:34 +0300" Modified="2016-07-25 15:37:31 +0300" Type="Text">
+                            <Title>Creating a Behavior</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>160,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" UUID="073E1341-BF13-41BB-A9F8-95F26BFB0FFC" Created="2016-07-25 15:38:36 +0300" Modified="2016-07-25 15:38:57 +0300" Type="Text">
+                            <Title>Editing Behaviors</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="51" UUID="4D8AB220-CF60-411B-AAF6-E1EE96C68DC7" Created="2016-07-25 15:39:09 +0300" Modified="2016-07-25 16:00:28 +0300" Type="Text">
+                                    <Title>Priority Order</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>313,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="8" UUID="E4F770A9-67B1-4589-9D89-75ED79BDB2D1" Created="2016-07-25 12:57:00 +0300" Modified="2016-07-25 16:01:21 +0300" Type="Text">
+                                    <Title>Snap to Grid</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>183,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="53" UUID="02011CA1-7EC7-4BC4-BDEB-65B96A2D1822" Created="2016-07-25 15:40:43 +0300" Modified="2016-07-25 15:40:52 +0300" Type="Text">
+                                    <Title>Node controls</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="56" UUID="7F565418-412F-4871-9220-437CAD236195" Created="2016-07-25 15:42:53 +0300" Modified="2016-07-25 17:03:35 +0300" Type="Text">
+                                            <Title>Node Type Symbols</Title>
+                                            <MetaData/>
+                                            <TextSettings>
+                                                <TextSelection>201,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="57" UUID="30C79A9A-35CB-4F47-BD01-748008DA08A1" Created="2016-07-25 15:45:55 +0300" Modified="2016-07-25 16:30:59 +0300" Type="Text">
+                                            <Title>Connecting Nodes</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>620,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="52" UUID="F02D459C-11B3-4CAF-841F-9F881FE65990" Created="2016-07-25 15:39:30 +0300" Modified="2016-07-25 16:49:36 +0300" Type="Text">
+                                            <Title>Editing Variables</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>474,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="54" UUID="EEC7E472-9135-43A0-BF10-5E2BA52EDDBB" Created="2016-07-25 15:41:07 +0300" Modified="2016-07-25 17:01:55 +0300" Type="Text">
+                                            <Title>Expanding subtrees</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>335,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="55" UUID="E123E9C6-5CE3-4CBC-A973-CB1625677B21" Created="2016-07-25 15:41:28 +0300" Modified="2016-07-25 17:12:07 +0300" Type="Text">
+                                            <Title>Nodes with Notes</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>583,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="4" UUID="7D7DC369-D906-45EF-A059-782CC43501E1" Created="2016-07-25 12:54:33 +0300" Modified="2016-07-25 17:13:12 +0300" Type="Text">
+                            <Title>Saving / Opening Behaviors</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="5" UUID="2EC610A9-5F54-4E57-B183-F40C98EAE8A3" Created="2016-07-25 12:54:33 +0300" Modified="2016-07-25 12:56:49 +0300" Type="Text">
+                            <Title>Working with Subtrees</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>714,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="9" UUID="943A22B3-50F2-427E-AAB3-96D2853EA82A" Created="2016-07-25 12:57:26 +0300" Modified="2016-07-25 12:57:31 +0300" Type="Folder">
+                            <Title>Warnings</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="10" UUID="1B60AF5A-94D3-469A-8020-F8DA8971FD0E" Created="2016-07-25 12:57:36 +0300" Modified="2016-07-25 13:37:17 +0300" Type="Text">
+                                    <Title>Tree Depth</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>203,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="11" UUID="AEAE1495-573F-4D11-8B5D-762FB20C4DA1" Created="2016-07-25 12:57:37 +0300" Modified="2016-07-25 13:04:39 +0300" Type="Text">
+                                    <Title>Not Connected to Root</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>201,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="12" UUID="FE164C63-8CDF-428C-A2F8-63DB1970B1E9" Created="2016-07-25 12:57:37 +0300" Modified="2016-07-25 12:58:34 +0300" Type="Text">
+                                    <Title>Not Ending in Leaf</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="13" UUID="14F5F56A-F13A-4A34-B9B0-EFE63125BE94" Created="2016-07-25 12:58:40 +0300" Modified="2016-07-25 12:59:02 +0300" Type="Text">
+                                    <Title>Invalid Nodes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="14" UUID="4E5753F5-B147-4A34-9564-5F45934949A0" Created="2016-07-25 12:59:11 +0300" Modified="2016-07-25 12:59:19 +0300" Type="Folder">
+                            <Title>Blackboard</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="16" UUID="62614778-AF1B-4E46-9283-2AA8B112B56D" Created="2016-07-25 12:59:29 +0300" Modified="2016-07-25 13:01:24 +0300" Type="Text">
+                                    <Title>Accessing the Blackboard</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="17" UUID="531F0B31-F08C-4D9B-85B2-B9AE1021C40D" Created="2016-07-25 13:01:39 +0300" Modified="2016-07-25 13:02:00 +0300" Type="Text">
+                                    <Title>Typed Data</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="18" UUID="947F81B4-A9DF-4D48-AD76-270FCC1D25F1" Created="2016-07-25 13:02:07 +0300" Modified="2016-07-25 13:02:23 +0300" Type="Text">
+                                    <Title>Tips</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="19" UUID="8E295376-DC89-48BE-A3E9-D959DBB1D558" Created="2016-07-25 13:02:41 +0300" Modified="2016-07-25 13:02:48 +0300" Type="Folder">
+                    <Title>Visual Debugger</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="20" UUID="154B7449-BE09-408B-8B7D-8C3DC017FC26" Created="2016-07-25 13:02:53 +0300" Modified="2016-07-25 13:04:29 +0300" Type="Text">
+                            <Title>Using Visual Debugger</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>497,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="21" UUID="1E5E0AEF-97ED-4890-9F85-1E5066878AD2" Created="2016-07-25 13:04:47 +0300" Modified="2016-07-25 13:05:02 +0300" Type="Text">
+                            <Title>Show Last Run</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>276,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="22" UUID="DA1D5AC8-A1B6-4DB8-823E-5EA64D2C9C62" Created="2016-07-25 13:05:14 +0300" Modified="2016-07-25 13:05:17 +0300" Type="Folder">
+                    <Title>Nodes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="23" UUID="91B3C7E0-6494-4113-B91F-78DF0E140BDB" Created="2016-07-25 13:05:32 +0300" Modified="2016-07-25 13:06:04 +0300" Type="Text">
+                            <Title>Creating Custom Nodes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" UUID="502B057D-406A-4888-A7C4-4DFA7CBEF6AA" Created="2016-07-25 13:05:32 +0300" Modified="2016-07-25 13:06:31 +0300" Type="Text">
+                            <Title>Actions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="28" UUID="3CF2280A-8D93-4B63-8783-82A40851ECF2" Created="2016-07-25 13:06:36 +0300" Modified="2016-07-25 13:24:37 +0300" Type="Text">
+                                    <Title>DebugWriter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>203,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="25" UUID="C5684BEF-E7F8-434D-9523-5F175359D132" Created="2016-07-25 13:05:33 +0300" Modified="2016-07-25 13:07:00 +0300" Type="Text">
+                            <Title>Conditions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="29" UUID="F7191F47-CAB8-4B38-B39D-7940978090D8" Created="2016-07-25 13:07:05 +0300" Modified="2016-07-25 13:41:52 +0300" Type="Text">
+                                    <Title>RandomCond</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>201,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="26" UUID="075F2DDC-D305-4FCB-B1F3-EBA088DD4043" Created="2016-07-25 13:05:33 +0300" Modified="2016-07-25 13:54:24 +0300" Type="Text">
+                            <Title>Decorators</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>83,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="30" UUID="14508580-33FB-42D1-AA11-9978F3B01DF7" Created="2016-07-25 13:07:49 +0300" Modified="2016-07-25 13:08:18 +0300" Type="Text">
+                                    <Title>AlwaysSuccess</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="186">0,186</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="31" UUID="CAD0EE0C-AEAA-4116-AF90-AD9131616010" Created="2016-07-25 13:07:49 +0300" Modified="2016-07-25 13:55:58 +0300" Type="Text">
+                                    <Title>AlwaysFailure</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>107,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="32" UUID="B4E3383E-673B-4893-9589-6592130DC164" Created="2016-07-25 13:07:49 +0300" Modified="2016-07-25 13:57:49 +0300" Type="Text">
+                                    <Title>Inverse</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>115,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="33" UUID="D1A7B57E-6C64-4694-8572-8270A2E74034" Created="2016-07-25 13:07:50 +0300" Modified="2016-07-25 14:02:40 +0300" Type="Text">
+                                    <Title>BT_WaitForSeconds</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>150,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="34" UUID="B94341A7-1FD1-4A65-AF76-D1873D07634B" Created="2016-07-25 13:07:50 +0300" Modified="2016-07-25 13:10:24 +0300" Type="Text">
+                                    <Title>RepeatTimes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="27" UUID="41695DDA-BE96-41C1-A39E-97C836899E0E" Created="2016-07-25 13:05:33 +0300" Modified="2016-07-25 13:10:40 +0300" Type="Text">
+                            <Title>Internals</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="35" UUID="560E655F-0811-4722-993B-24FFE5919620" Created="2016-07-25 13:10:47 +0300" Modified="2016-07-25 14:03:33 +0300" Type="Text">
+                                    <Title>Parallel</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>423,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="36" UUID="DB2C4F69-E22F-45C4-96C4-785E7F80F4A6" Created="2016-07-25 13:10:47 +0300" Modified="2016-07-25 13:15:08 +0300" Type="Text">
+                                    <Title>Selector</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>238,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="41" UUID="1635F731-1771-4B95-AC5E-7252B0D770F0" Created="2016-07-25 13:11:44 +0300" Modified="2016-07-25 13:12:03 +0300" Type="Text">
+                                            <Title>SelectorMemory</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>99,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="42" UUID="217CC791-E5AF-49BD-9026-A1907B23135F" Created="2016-07-25 13:11:44 +0300" Modified="2016-07-25 13:13:12 +0300" Type="Text">
+                                            <Title>RandomSelector</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>42,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="37" UUID="6FDC293A-7142-4982-A807-935130240016" Created="2016-07-25 13:10:47 +0300" Modified="2016-07-25 14:06:26 +0300" Type="Text">
+                                    <Title>Sequence</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>474,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="39" UUID="2DE77B33-302F-4E80-BD05-AF8E39674B0B" Created="2016-07-25 13:10:48 +0300" Modified="2016-07-25 14:09:39 +0300" Type="Text">
+                                            <Title>SequenceMemory</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>241,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="DD53FA3E-6BB8-41ED-B390-AAF4347F0C84" Created="2016-07-25 12:53:53 +0300" Modified="2016-07-25 12:53:53 +0300" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="AFA51DF4-D85D-4C31-BE1A-608D2D42AFD2" Created="2016-07-25 12:53:53 +0300" Modified="2016-07-25 12:53:53 +0300" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="15" UUID="E61D2392-1944-4D20-8171-AC28EA096E7E" Created="2016-07-25 12:59:28 +0300" Modified="2016-07-25 13:00:50 +0300" Type="Text">
+                    <Title>Accessing the Blackboard</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="38" UUID="F6E197F1-4B4D-436D-8308-FA80EDAABD5E" Created="2016-07-25 13:10:48 +0300" Modified="2016-07-25 13:10:48 +0300" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="40" UUID="CCA1C717-23AD-46C2-9119-A83CC3E579DC" Created="2016-07-25 13:10:48 +0300" Modified="2016-07-25 13:10:48 +0300" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="2484" Characters="14339" Date="2016-07-25 12:53:54 +0300"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="74B824F8-227D-47A8-A879-8FE5504CA635" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="B2D4272F-3579-480F-A37A-CCFA2D716DC1" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="A4" LeftMargin="15.5906" RightMargin="18.4819" TopMargin="18" BottomMargin="19.7859" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

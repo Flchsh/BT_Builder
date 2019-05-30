@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3"/>
+        <Document ID="4">
+            <Title>Getting Started</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Custom Nodes</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Using Blackboard</Title>
+        </Document>
+        <Document ID="7">
+            <Title>Actions And Conditions</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Using Visual Editor</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Testing Behavior</Title>
+        </Document>
+        <Document ID="10">
+            <Title>Adding More Functionality</Title>
+        </Document>
+        <Document ID="11">
+            <Title>suunnitelman esittely</Title>
+        </Document>
+        <Document ID="12">
+            <Title>tavoitedemo</Title>
+        </Document>
+        <Document ID="13">
+            <Title>tarkempi erittely</Title>
+        </Document>
+        <Document ID="14">
+            <Title>tarvittavat omat solmut</Title>
+        </Document>
+        <Document ID="15">
+            <Title>BT Builder -esittely</Title>
+            <Synopsis>Linkki johonkin hyvään BT-katsaukseen</Synopsis>
+        </Document>
+        <Document ID="16">
+            <Title>Solmun suunnittelu ja sijainti</Title>
+            <Synopsis>esimerkki!</Synopsis>
+        </Document>
+        <Document ID="17">
+            <Title>IsClose</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Huomioitavat asiat</Title>
+            <Synopsis>jotka näkyy ed. koodissa</Synopsis>
+        </Document>
+        <Document ID="19">
+            <Title>Blackboard-esittely</Title>
+        </Document>
+        <Document ID="20">
+            <Title>Updater ja BB:n käyttö muualta</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Updater-skripti</Title>
+            <Synopsis>Start, lähinnä</Synopsis>
+        </Document>
+        <Document ID="22">
+            <Title>Muut solmut</Title>
+            <Synopsis>Jako tyyppien mukaan</Synopsis>
+        </Document>
+        <Document ID="23">
+            <Title>redchange</Title>
+        </Document>
+        <Document ID="24">
+            <Title>greenchange</Title>
+        </Document>
+        <Document ID="25">
+            <Title>Kansiosijainnin vaikutus</Title>
+            <Synopsis>Huom! isClose conditioneihin</Synopsis>
+        </Document>
+        <Document ID="26">
+            <Title>Editori</Title>
+            <Synopsis>Avataan ylävalikosta</Synopsis>
+        </Document>
+        <Document ID="27">
+            <Title>kuva editorista</Title>
+            <Synopsis>Ja selectorin lisääminen</Synopsis>
+        </Document>
+        <Document ID="28">
+            <Title>Suoritusjärjestys</Title>
+            <Synopsis>Ja tarvittavat internalit</Synopsis>
+        </Document>
+        <Document ID="29">
+            <Title>toimintalogiikka</Title>
+            <Notes>(Mitä tässä ees piti olla?)</Notes>
+        </Document>
+        <Document ID="30">
+            <Title>Puolivalmis puu</Title>
+        </Document>
+        <Document ID="31">
+            <Title>demo tähän asti</Title>
+        </Document>
+        <Document ID="32">
+            <Title>Using Visual Editor II</Title>
+        </Document>
+        <Document ID="33">
+            <Title>Kirkkaampi valo</Title>
+        </Document>
+        <Document ID="34">
+            <Title>intensity-solmu</Title>
+        </Document>
+        <Document ID="35">
+            <Title>Valmis puu</Title>
+        </Document>
+        <Document ID="36">
+            <Title>Raja-arvon asetus</Title>
+        </Document>
+        <Document ID="37">
+            <Title>Edit Values</Title>
+        </Document>
+        <Document ID="38">
+            <Title>Debuggerin käyttö</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Updater</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Mitä tarvitaan</Title>
+        </Document>
+        <Document ID="41">
+            <Title>valmis updater-skripti</Title>
+        </Document>
+        <Document ID="42">
+            <Title>debuggeri toiminnassa</Title>
+            <Notes>Liian iso kuva? Ei välttämättä oikein saa selvää / liikaa näkyvissä.</Notes>
+        </Document>
+        <Document ID="43">
+            <Title>Puun muokkaus komponentista</Title>
+        </Document>
+        <Document ID="44">
+            <Title>blackboardin sisällön tutkiminen</Title>
+            <Notes>Itse asiassa eri täppää ei varsinaisesti tarvita, kun komponentissa on aina se kutistusnuoli!</Notes>
+        </Document>
+        <Document ID="45">
+            <Title>Blackboard auki</Title>
+            <Synopsis>Näkyy myös debugger-videossa (jos sitä nyt joku huomaa)</Synopsis>
+        </Document>
+        <Document ID="46">
+            <Title>Suunnitelma</Title>
+            <Synopsis>Lyhyesti. Liikkuva kapseli.</Synopsis>
+        </Document>
+        <Document ID="47">
+            <Title>liikkumissolmu</Title>
+            <Notes>huomattava että päämäärää ei kannata kierrättää blackboardilla koska se muuttuu koko ajan.</Notes>
+        </Document>
+        <Document ID="48">
+            <Title>Updaterin muutokset</Title>
+            <Synopsis>Huom! Kahtena kuvana (Start ja Update).</Synopsis>
+        </Document>
+        <Document ID="49">
+            <Title>Parallel</Title>
+            <Notes>mikä ja miksi. Huom! Kuoli jos maxfails = 0. Sisäistä miksi.</Notes>
+        </Document>
+        <Document ID="50">
+            <Title>puun liittäminen</Title>
+        </Document>
+        <Document ID="51">
+            <Title>Subtree-video</Title>
+        </Document>
+        <Document ID="52">
+            <Title>valmis puu</Title>
+        </Document>
+        <Document ID="53">
+            <Title>Arvojen säätäminen</Title>
+            <Synopsis>Ei onnistu lennosta.</Synopsis>
+        </Document>
+        <Document ID="54">
+            <Title>Yhteenveto / loppusanat</Title>
+        </Document>
+        <Document ID="55">
+            <Title>Valmis demo</Title>
+            <Synopsis>Tee uusiks.</Synopsis>
+        </Document>
+    </Documents>
+</SearchIndexes>

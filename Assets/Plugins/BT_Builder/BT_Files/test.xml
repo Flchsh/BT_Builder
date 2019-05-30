@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BehaviorTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RootNode name="RootNode" notes="&#xA;" expanded="true">
+    <vars />
+    <children>
+      <expNode name="Selector" notes="&#xA;" expanded="true">
+        <vars />
+        <children>
+          <expNode name="RandomCond" notes="&#xA;" expanded="true">
+            <vars>
+              <exportedVariable>
+                <name>successPercentage</name>
+                <type>System.Single</type>
+                <value xsi:type="xsd:float">0</value>
+              </exportedVariable>
+            </vars>
+            <children />
+          </expNode>
+          <expNode name="Sequence" notes="&#xA;" expanded="true">
+            <vars />
+            <children>
+              <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>successPercentage</name>
+                    <type>System.Single</type>
+                    <value xsi:type="xsd:float">50</value>
+                  </exportedVariable>
+                </vars>
+                <children />
+              </expNode>
+              <expNode name="BT_WaitForSeconds" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>seconds</name>
+                    <type>System.Single</type>
+                    <value xsi:type="xsd:float">2</value>
+                  </exportedVariable>
+                  <exportedVariable>
+                    <name>shootFirst</name>
+                    <type>System.Boolean</type>
+                    <value xsi:type="xsd:boolean">true</value>
+                  </exportedVariable>
+                </vars>
+                <children>
+                  <expNode name="DebugWriter" notes="&#xA;" expanded="true">
+                    <vars>
+                      <exportedVariable>
+                        <name>line</name>
+                        <type>System.String</type>
+                        <value xsi:type="xsd:string">doned</value>
+                      </exportedVariable>
+                    </vars>
+                    <children />
+                  </expNode>
+                </children>
+              </expNode>
+            </children>
+          </expNode>
+          <expNode name="RandomCond" notes="&#xA;" expanded="true">
+            <vars>
+              <exportedVariable>
+                <name>successPercentage</name>
+                <type>System.Single</type>
+                <value xsi:type="xsd:float">0</value>
+              </exportedVariable>
+            </vars>
+            <children />
+          </expNode>
+          <expNode name="RandomCond" notes="&#xA;" expanded="true">
+            <vars>
+              <exportedVariable>
+                <name>successPercentage</name>
+                <type>System.Single</type>
+                <value xsi:type="xsd:float">0</value>
+              </exportedVariable>
+            </vars>
+            <children />
+          </expNode>
+          <expNode name="Selector" notes="&#xA;" expanded="true">
+            <vars />
+            <children>
+              <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>successPercentage</name>
+                    <type>System.Single</type>
+                    <value xsi:type="xsd:float">0</value>
+                  </exportedVariable>
+                </vars>
+                <children />
+              </expNode>
+              <expNode name="Sequence" notes="&#xA;" expanded="true">
+                <vars />
+                <children>
+                  <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                    <vars>
+                      <exportedVariable>
+                        <name>successPercentage</name>
+                        <type>System.Single</type>
+                        <value xsi:type="xsd:float">50</value>
+                      </exportedVariable>
+                    </vars>
+                    <children />
+                  </expNode>
+                  <expNode name="BT_WaitForSeconds" notes="&#xA;" expanded="true">
+                    <vars>
+                      <exportedVariable>
+                        <name>seconds</name>
+                        <type>System.Single</type>
+                        <value xsi:type="xsd:float">2</value>
+                      </exportedVariable>
+                      <exportedVariable>
+                        <name>shootFirst</name>
+                        <type>System.Boolean</type>
+                        <value xsi:type="xsd:boolean">true</value>
+                      </exportedVariable>
+                    </vars>
+                    <children>
+                      <expNode name="DebugWriter" notes="&#xA;" expanded="true">
+                        <vars>
+                          <exportedVariable>
+                            <name>line</name>
+                            <type>System.String</type>
+                            <value xsi:type="xsd:string">doned</value>
+                          </exportedVariable>
+                        </vars>
+                        <children />
+                      </expNode>
+                    </children>
+                  </expNode>
+                </children>
+              </expNode>
+              <expNode name="AlwaysFailure" notes="&#xA;" expanded="true">
+                <vars />
+                <children>
+                  <expNode name="Parallel" notes="&#xA;" expanded="true">
+                    <vars>
+                      <exportedVariable>
+                        <name>MaxFails</name>
+                        <type>System.Int32</type>
+                        <value xsi:type="xsd:int">0</value>
+                      </exportedVariable>
+                    </vars>
+                    <children>
+                      <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                        <vars>
+                          <exportedVariable>
+                            <name>successPercentage</name>
+                            <type>System.Single</type>
+                            <value xsi:type="xsd:float">0</value>
+                          </exportedVariable>
+                        </vars>
+                        <children />
+                      </expNode>
+                      <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                        <vars>
+                          <exportedVariable>
+                            <name>successPercentage</name>
+                            <type>System.Single</type>
+                            <value xsi:type="xsd:float">0</value>
+                          </exportedVariable>
+                        </vars>
+                        <children />
+                      </expNode>
+                      <expNode name="DebugWriter" notes="&#xA;" expanded="true">
+                        <vars>
+                          <exportedVariable>
+                            <name>line</name>
+                            <type>System.String</type>
+                            <value xsi:type="xsd:string">jhy</value>
+                          </exportedVariable>
+                        </vars>
+                        <children />
+                      </expNode>
+                    </children>
+                  </expNode>
+                </children>
+              </expNode>
+              <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>successPercentage</name>
+                    <type>System.Single</type>
+                    <value xsi:type="xsd:float">0</value>
+                  </exportedVariable>
+                </vars>
+                <children />
+              </expNode>
+              <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>successPercentage</name>
+                    <type>System.Single</type>
+                    <value xsi:type="xsd:float">0</value>
+                  </exportedVariable>
+                </vars>
+                <children />
+              </expNode>
+              <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>successPercentage</name>
+                    <type>System.Single</type>
+                    <value xsi:type="xsd:float">0</value>
+                  </exportedVariable>
+                </vars>
+                <children />
+              </expNode>
+              <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>successPercentage</name>
+                    <type>System.Single</type>
+                    <value xsi:type="xsd:float">0</value>
+                  </exportedVariable>
+                </vars>
+                <children />
+              </expNode>
+              <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+                <vars />
+                <children>
+                  <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+                    <vars />
+                    <children>
+                      <expNode name="AlwaysSuccess" notes="&#xA;" expanded="false">
+                        <vars />
+                        <children>
+                          <expNode name="AlwaysSuccess" notes="&#xA;" expanded="false">
+                            <vars />
+                            <children>
+                              <expNode name="AlwaysSuccess" notes="&#xA;" expanded="false">
+                                <vars />
+                                <children>
+                                  <expNode name="AlwaysSuccess" notes="&#xA;" expanded="false">
+                                    <vars />
+                                    <children>
+                                      <expNode name="Parallel" notes="&#xA;" expanded="false">
+                                        <vars>
+                                          <exportedVariable>
+                                            <name>MaxFails</name>
+                                            <type>System.Int32</type>
+                                            <value xsi:type="xsd:int">0</value>
+                                          </exportedVariable>
+                                        </vars>
+                                        <children>
+                                          <expNode name="RandomCond" notes="&#xA;" expanded="false">
+                                            <vars>
+                                              <exportedVariable>
+                                                <name>successPercentage</name>
+                                                <type>System.Single</type>
+                                                <value xsi:type="xsd:float">0</value>
+                                              </exportedVariable>
+                                            </vars>
+                                            <children />
+                                          </expNode>
+                                          <expNode name="RandomCond" notes="&#xA;" expanded="false">
+                                            <vars>
+                                              <exportedVariable>
+                                                <name>successPercentage</name>
+                                                <type>System.Single</type>
+                                                <value xsi:type="xsd:float">0</value>
+                                              </exportedVariable>
+                                            </vars>
+                                            <children />
+                                          </expNode>
+                                          <expNode name="RandomCond" notes="&#xA;" expanded="false">
+                                            <vars>
+                                              <exportedVariable>
+                                                <name>successPercentage</name>
+                                                <type>System.Single</type>
+                                                <value xsi:type="xsd:float">0</value>
+                                              </exportedVariable>
+                                            </vars>
+                                            <children />
+                                          </expNode>
+                                          <expNode name="RandomCond" notes="&#xA;" expanded="false">
+                                            <vars>
+                                              <exportedVariable>
+                                                <name>successPercentage</name>
+                                                <type>System.Single</type>
+                                                <value xsi:type="xsd:float">0</value>
+                                              </exportedVariable>
+                                            </vars>
+                                            <children />
+                                          </expNode>
+                                        </children>
+                                      </expNode>
+                                    </children>
+                                  </expNode>
+                                </children>
+                              </expNode>
+                            </children>
+                          </expNode>
+                        </children>
+                      </expNode>
+                    </children>
+                  </expNode>
+                </children>
+              </expNode>
+            </children>
+          </expNode>
+          <expNode name="RandomCond" notes="&#xA;" expanded="true">
+            <vars>
+              <exportedVariable>
+                <name>successPercentage</name>
+                <type>System.Single</type>
+                <value xsi:type="xsd:float">0</value>
+              </exportedVariable>
+            </vars>
+            <children />
+          </expNode>
+          <expNode name="RandomCond" notes="&#xA;" expanded="true">
+            <vars>
+              <exportedVariable>
+                <name>successPercentage</name>
+                <type>System.Single</type>
+                <value xsi:type="xsd:float">0</value>
+              </exportedVariable>
+            </vars>
+            <children />
+          </expNode>
+          <expNode name="AlwaysFailure" notes="&#xA;" expanded="true">
+            <vars />
+            <children>
+              <expNode name="Parallel" notes="&#xA;" expanded="true">
+                <vars>
+                  <exportedVariable>
+                    <name>MaxFails</name>
+                    <type>System.Int32</type>
+                    <value xsi:type="xsd:int">0</value>
+                  </exportedVariable>
+                </vars>
+                <children>
+                  <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                    <vars>
+                      <exportedVariable>
+                        <name>successPercentage</name>
+                        <type>System.Single</type>
+                        <value xsi:type="xsd:float">60</value>
+                      </exportedVariable>
+                    </vars>
+                    <children />
+                  </expNode>
+                  <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                    <vars>
+                      <exportedVariable>
+                        <name>successPercentage</name>
+                        <type>System.Single</type>
+                        <value xsi:type="xsd:float">0</value>
+                      </exportedVariable>
+                    </vars>
+                    <children />
+                  </expNode>
+                  <expNode name="DebugWriter" notes="&#xA;" expanded="true">
+                    <vars>
+                      <exportedVariable>
+                        <name>line</name>
+                        <type>System.String</type>
+                        <value xsi:type="xsd:string">zgjn</value>
+                      </exportedVariable>
+                    </vars>
+                    <children />
+                  </expNode>
+                </children>
+              </expNode>
+            </children>
+          </expNode>
+          <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+            <vars />
+            <children>
+              <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+                <vars />
+                <children>
+                  <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+                    <vars />
+                    <children>
+                      <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+                        <vars />
+                        <children>
+                          <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+                            <vars />
+                            <children>
+                              <expNode name="AlwaysSuccess" notes="&#xA;" expanded="true">
+                                <vars />
+                                <children>
+                                  <expNode name="Parallel" notes="&#xA;" expanded="true">
+                                    <vars>
+                                      <exportedVariable>
+                                        <name>MaxFails</name>
+                                        <type>System.Int32</type>
+                                        <value xsi:type="xsd:int">0</value>
+                                      </exportedVariable>
+                                    </vars>
+                                    <children>
+                                      <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                                        <vars>
+                                          <exportedVariable>
+                                            <name>successPercentage</name>
+                                            <type>System.Single</type>
+                                            <value xsi:type="xsd:float">0</value>
+                                          </exportedVariable>
+                                        </vars>
+                                        <children />
+                                      </expNode>
+                                      <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                                        <vars>
+                                          <exportedVariable>
+                                            <name>successPercentage</name>
+                                            <type>System.Single</type>
+                                            <value xsi:type="xsd:float">0</value>
+                                          </exportedVariable>
+                                        </vars>
+                                        <children />
+                                      </expNode>
+                                      <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                                        <vars>
+                                          <exportedVariable>
+                                            <name>successPercentage</name>
+                                            <type>System.Single</type>
+                                            <value xsi:type="xsd:float">0</value>
+                                          </exportedVariable>
+                                        </vars>
+                                        <children />
+                                      </expNode>
+                                      <expNode name="RandomCond" notes="&#xA;" expanded="true">
+                                        <vars>
+                                          <exportedVariable>
+                                            <name>successPercentage</name>
+                                            <type>System.Single</type>
+                                            <value xsi:type="xsd:float">0</value>
+                                          </exportedVariable>
+                                        </vars>
+                                        <children />
+                                      </expNode>
+                                    </children>
+                                  </expNode>
+                                </children>
+                              </expNode>
+                            </children>
+                          </expNode>
+                        </children>
+                      </expNode>
+                    </children>
+                  </expNode>
+                </children>
+              </expNode>
+            </children>
+          </expNode>
+        </children>
+      </expNode>
+    </children>
+  </RootNode>
+</BehaviorTree>

@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.6.0" Device="Athigria" Modified="2016-08-10 14:27:59 +0300" ModID="9EE0BA96-5880-48A6-A996-FF4ACF89874B">
+    <Binder>
+        <BinderItem ID="0" UUID="1687C536-2982-4C4E-9358-8D892221EDC1" Created="2016-08-10 13:48:14 +0300" Modified="2016-08-10 13:48:14 +0300" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="D2E98FAB-65B9-47C4-A487-74E12DE65956" Created="2016-08-10 13:48:14 +0300" Modified="2016-08-10 13:48:14 +0300" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="5A2CA60B-502C-48C6-91E2-1D9521AFB9DA" Created="2016-08-10 13:49:54 +0300" Modified="2016-08-10 14:06:06 +0300" Type="Folder">
+                    <Title>Getting Started</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="11" UUID="BB97FB21-A2F3-4443-B7A6-BE38AC983A4B" Created="2016-08-10 13:52:26 +0300" Modified="2016-08-10 13:53:39 +0300" Type="Text">
+                            <Title>suunnitelman esittely</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="12" UUID="41BBFCDF-4E2C-4F31-BDE8-0881532426CE" Created="2016-08-10 13:53:53 +0300" Modified="2016-08-10 14:19:41 +0300" Type="Text">
+                            <Title>tavoitedemo</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" UUID="170D8C72-5C29-45C6-93FE-FF3EFFE9FA18" Created="2016-08-10 13:55:31 +0300" Modified="2016-08-10 13:55:45 +0300" Type="Text">
+                            <Title>tarkempi erittely</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="14" UUID="B4DE1C02-8CC2-40F1-B76A-B1B25957F327" Created="2016-08-10 13:55:48 +0300" Modified="2016-08-10 13:56:01 +0300" Type="Text">
+                            <Title>tarvittavat omat solmut</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="5" UUID="69364295-7CDE-4E93-97DA-6F2DF62B4960" Created="2016-08-10 13:50:03 +0300" Modified="2016-08-10 14:06:06 +0300" Type="Folder">
+                    <Title>Custom Nodes</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="15" UUID="FDC641BD-1D2E-4A36-84F1-D1DB6BD6D00B" Created="2016-08-10 13:56:10 +0300" Modified="2016-08-10 13:56:39 +0300" Type="Text">
+                            <Title>BT Builder -esittely</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="16" UUID="DF733A78-E428-4A4A-B0FC-3EC3DB8BB581" Created="2016-08-10 13:56:44 +0300" Modified="2016-08-10 13:57:15 +0300" Type="Text">
+                            <Title>Solmun suunnittelu ja sijainti</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="17" UUID="2BF7B6E0-5703-40DE-8A37-BF19C1864010" Created="2016-08-10 13:57:17 +0300" Modified="2016-08-10 14:19:54 +0300" Type="Text">
+                            <Title>IsClose</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="18" UUID="21AC6538-83BC-4206-B9EF-4F3D2667A986" Created="2016-08-10 13:57:29 +0300" Modified="2016-08-10 13:58:13 +0300" Type="Text">
+                            <Title>Huomioitavat asiat</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="6" UUID="C3B4E069-9E02-4652-98AA-564F62CF778E" Created="2016-08-10 13:50:21 +0300" Modified="2016-08-10 14:06:06 +0300" Type="Folder">
+                    <Title>Using Blackboard</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="19" UUID="CE2A5875-5EB8-4BD0-8BA3-70D1F89E4590" Created="2016-08-10 13:58:19 +0300" Modified="2016-08-10 13:58:34 +0300" Type="Text">
+                            <Title>Blackboard-esittely</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="20" UUID="68F340C1-E23F-4901-BC92-1814BB8706F5" Created="2016-08-10 13:58:35 +0300" Modified="2016-08-10 13:58:57 +0300" Type="Text">
+                            <Title>Updater ja BB:n käyttö muualta</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="21" UUID="5CE153E5-F121-47C8-8D6A-121F7A1DB83F" Created="2016-08-10 13:58:59 +0300" Modified="2016-08-10 14:20:07 +0300" Type="Text">
+                            <Title>Updater-skripti</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="7" UUID="EBBE8517-7C71-4F87-AB9F-C47CCCCB0397" Created="2016-08-10 13:50:35 +0300" Modified="2016-08-10 14:06:06 +0300" Type="Folder">
+                    <Title>Actions And Conditions</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="22" UUID="4EA583BE-DD57-4DF5-A225-50AA2B0DDA98" Created="2016-08-10 14:00:02 +0300" Modified="2016-08-10 14:00:25 +0300" Type="Text">
+                            <Title>Muut solmut</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="23" UUID="9E482A0A-F838-433F-B414-149042700CF7" Created="2016-08-10 14:00:27 +0300" Modified="2016-08-10 14:20:19 +0300" Type="Text">
+                            <Title>redchange</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" UUID="34374B9E-90A7-407A-B3A2-2D304A7A043D" Created="2016-08-10 14:00:42 +0300" Modified="2016-08-10 14:20:22 +0300" Type="Text">
+                            <Title>greenchange</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="25" UUID="869ED816-1F14-4249-8CF3-342C7DB2ABAD" Created="2016-08-10 14:00:51 +0300" Modified="2016-08-10 14:01:31 +0300" Type="Text">
+                            <Title>Kansiosijainnin vaikutus</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="8" UUID="31ABEE56-EE7F-4C4A-ABF9-30179C084DBF" Created="2016-08-10 13:51:09 +0300" Modified="2016-08-10 14:06:06 +0300" Type="Folder">
+                    <Title>Using Visual Editor</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="26" UUID="C353E358-F49B-4E33-B445-650C531E16E1" Created="2016-08-10 14:01:38 +0300" Modified="2016-08-10 14:02:07 +0300" Type="Text">
+                            <Title>Editori</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="27" UUID="99373631-6F24-4982-9D06-05DBE4FE855D" Created="2016-08-10 14:02:10 +0300" Modified="2016-08-10 14:22:09 +0300" Type="Text">
+                            <Title>kuva editorista</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="28" UUID="D85512E8-9C1F-460E-BE94-AA63C95C5C6A" Created="2016-08-10 14:03:19 +0300" Modified="2016-08-10 14:03:51 +0300" Type="Text">
+                            <Title>Suoritusjärjestys</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="29" UUID="B9C99E82-D4F5-43EE-AAF9-0F95BE2F721B" Created="2016-08-10 14:03:53 +0300" Modified="2016-08-10 14:04:21 +0300" Type="Text">
+                            <Title>toimintalogiikka</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="30" UUID="2AB1BB45-4E82-4E2A-9C03-E77BE574AB4E" Created="2016-08-10 14:04:26 +0300" Modified="2016-08-10 14:22:15 +0300" Type="Text">
+                            <Title>Puolivalmis puu</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="31" UUID="A749D570-3029-4EC7-8121-5DB7BA1E3F92" Created="2016-08-10 14:04:40 +0300" Modified="2016-08-10 14:22:19 +0300" Type="Text">
+                            <Title>demo tähän asti</Title>
+                            <MetaData>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="32" UUID="D4517BD4-55BC-47C9-987E-B3826EFA7456" Created="2016-08-10 14:05:05 +0300" Modified="2016-08-10 14:05:37 +0300" Type="Folder">
+                    <Title>Using Visual Editor II</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="33" UUID="E86DB676-06DC-418A-BA97-CC284FD089F5" Created="2016-08-10 14:06:16 +0300" Modified="2016-08-10 14:06:32 +0300" Type="Text">
+                            <Title>Kirkkaampi valo</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="34" UUID="0519B28A-3962-4C60-BB71-9B2FD6A6349D" Created="2016-08-10 14:06:44 +0300" Modified="2016-08-10 14:22:39 +0300" Type="Text">
+                            <Title>intensity-solmu</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="ABC002DE-ABD1-4266-80B3-A793AE2859E7" Created="2016-08-10 14:07:04 +0300" Modified="2016-08-10 14:22:39 +0300" Type="Text">
+                            <Title>Valmis puu</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" UUID="0D4606BD-454F-430D-9B2C-D69A543B7572" Created="2016-08-10 14:07:15 +0300" Modified="2016-08-10 14:07:46 +0300" Type="Text">
+                            <Title>Raja-arvon asetus</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="37" UUID="31900B89-21D1-4597-819F-A22D8F8C8AE7" Created="2016-08-10 14:07:58 +0300" Modified="2016-08-10 14:22:39 +0300" Type="Text">
+                            <Title>Edit Values</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="39" UUID="0E47A4AE-2976-4554-A03D-801F575BE0C4" Created="2016-08-10 14:08:49 +0300" Modified="2016-08-10 14:08:53 +0300" Type="Folder">
+                            <Title>Updater</Title>
+                            <MetaData>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="40" UUID="C2AAD1A1-89E3-42BA-8D10-6458E5CC2FD7" Created="2016-08-10 14:08:58 +0300" Modified="2016-08-10 14:09:10 +0300" Type="Text">
+                                    <Title>Mitä tarvitaan</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="41" UUID="2301C0FF-74EA-4DCA-A735-C1E71FEF5218" Created="2016-08-10 14:09:12 +0300" Modified="2016-08-10 14:22:54 +0300" Type="Text">
+                                    <Title>valmis updater-skripti</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>5</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="9" UUID="A84077E9-69F3-4D61-B25A-9A4B3ECEE7FD" Created="2016-08-10 13:51:25 +0300" Modified="2016-08-10 14:06:06 +0300" Type="Folder">
+                    <Title>Testing Behavior</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="38" UUID="56D6DC0E-E2C7-4E3A-973A-CE91877A6E23" Created="2016-08-10 14:08:12 +0300" Modified="2016-08-10 14:10:00 +0300" Type="Text">
+                            <Title>Debuggerin käyttö</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="42" UUID="ECB572A1-51A5-4B73-B406-705B0D823B8F" Created="2016-08-10 14:10:02 +0300" Modified="2016-08-10 14:23:17 +0300" Type="Text">
+                            <Title>debuggeri toiminnassa</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="43" UUID="12DC328C-A70C-4B2F-B782-77E75F3CA9BD" Created="2016-08-10 14:10:19 +0300" Modified="2016-08-10 14:10:43 +0300" Type="Text">
+                            <Title>Puun muokkaus komponentista</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="44" UUID="4CD4A3B9-AB6E-4A4E-9C9D-2059DD1A0D97" Created="2016-08-10 14:10:44 +0300" Modified="2016-08-10 14:12:04 +0300" Type="Text">
+                            <Title>blackboardin sisällön tutkiminen</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="45" UUID="FB7C01E7-6C1B-4AFF-8B46-B2439EFE3B3D" Created="2016-08-10 14:12:06 +0300" Modified="2016-08-10 14:23:27 +0300" Type="Text">
+                            <Title>Blackboard auki</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="10" UUID="11493B2F-16F8-43EB-855A-1E86786EF273" Created="2016-08-10 13:51:50 +0300" Modified="2016-08-10 14:06:06 +0300" Type="Folder">
+                    <Title>Adding More Functionality</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="46" UUID="D76BFFD0-35E3-4A3B-86AA-027994A029EF" Created="2016-08-10 14:13:06 +0300" Modified="2016-08-10 14:13:33 +0300" Type="Text">
+                            <Title>Suunnitelma</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="3E7D0BB4-1BAF-4D9C-A796-67C350F92431" Created="2016-08-10 14:13:41 +0300" Modified="2016-08-10 14:23:37 +0300" Type="Text">
+                            <Title>liikkumissolmu</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="5DDFCE8D-CBC4-478C-8274-8FB41AD42A31" Created="2016-08-10 14:14:37 +0300" Modified="2016-08-10 14:23:44 +0300" Type="Text">
+                            <Title>Updaterin muutokset</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="49" UUID="A3A3695B-B0DE-4B98-BE48-83A08322B7D5" Created="2016-08-10 14:15:21 +0300" Modified="2016-08-10 14:18:19 +0300" Type="Text">
+                            <Title>Parallel</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" UUID="083BC99B-8C00-471E-9D88-B839A592BA9F" Created="2016-08-10 14:15:45 +0300" Modified="2016-08-10 14:16:01 +0300" Type="Text">
+                            <Title>puun liittäminen</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="51" UUID="A583B3CC-DFEB-48DA-A594-D97F455C6F2C" Created="2016-08-10 14:16:02 +0300" Modified="2016-08-10 14:24:00 +0300" Type="Text">
+                            <Title>Subtree-video</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="52" UUID="52F4C6CE-DB08-44EB-8EA7-2988ADE42A49" Created="2016-08-10 14:16:15 +0300" Modified="2016-08-10 14:24:07 +0300" Type="Text">
+                            <Title>valmis puu</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="53" UUID="4E154990-19B8-4DE1-9CEA-EC6C747FC999" Created="2016-08-10 14:16:26 +0300" Modified="2016-08-10 14:16:45 +0300" Type="Text">
+                            <Title>Arvojen säätäminen</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="54" UUID="CB45D9DA-64DA-4969-B4D0-8835F19D5C35" Created="2016-08-10 14:16:48 +0300" Modified="2016-08-10 14:17:08 +0300" Type="Text">
+                            <Title>Yhteenveto / loppusanat</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="55" UUID="C85D7B41-C2A9-4003-B995-7FF391B63290" Created="2016-08-10 14:17:10 +0300" Modified="2016-08-10 14:24:20 +0300" Type="Text">
+                            <Title>Valmis demo</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="E11358EB-3B2A-428D-90E6-705D44105A60" Created="2016-08-10 13:48:14 +0300" Modified="2016-08-10 13:48:14 +0300" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="A9A5C76B-C469-4D2B-989A-6158E5B275C7" Created="2016-08-10 13:48:14 +0300" Modified="2016-08-10 13:48:14 +0300" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+            <Label ID="2" Color="0.000000 0.427451 0.243137">teksti</Label>
+            <Label ID="3" Color="0.000000 0.521569 0.870588">luettelo</Label>
+            <Label ID="4" Color="0.000000 0.074510 0.898039">koodia</Label>
+            <Label ID="5" Color="0.333333 0.000000 0.498039">video</Label>
+            <Label ID="6" Color="0.000000 0.737255 0.415686">kuva</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2016-08-10 13:48:15 +0300"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="C75877A4-CA16-4C56-8BE2-02A5796CFA58" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="6E8F934B-E9EB-49FA-8B38-C8406AD49A80" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="Status" Scope="All" CompileSetting="All" CaseSensitive="No">First Draft</SearchSettings>
+        </Collection>
+        <Collection Type="SavedSearch" ID="4FA9C94C-F3AF-4D97-98E3-DB854C3A1236" Color="0.870588 0.866667 0.847059">
+            <Title>To do</Title>
+            <SearchSettings Operator="Exact" Type="Status" Scope="All" CompileSetting="All" CaseSensitive="No">To do</SearchSettings>
+        </Collection>
+        <Collection Type="SavedSearch" ID="0BCF24A2-1DE3-4753-97EE-7505642FE35D" Color="0.752941 0.843137 1.000000">
+            <Title>First Draft</Title>
+            <SearchSettings Operator="Exact" Type="Status" Scope="All" CompileSetting="All" CaseSensitive="No">First Draft</SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="A4" LeftMargin="15.5906" RightMargin="18.4819" TopMargin="18" BottomMargin="19.7859" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

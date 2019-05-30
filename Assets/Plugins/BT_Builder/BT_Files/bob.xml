@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BehaviorTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RootNode name="RootNode" notes="" expanded="true">
+    <vars />
+    <children>
+      <expNode name="Selector" notes="" expanded="true">
+        <vars />
+        <children>
+          <expNode name="RandomCond" notes="" expanded="true">
+            <vars>
+              <exportedVariable>
+                <name>successPercentage</name>
+                <type>System.Single</type>
+                <value xsi:type="xsd:float">50</value>
+              </exportedVariable>
+            </vars>
+            <children />
+          </expNode>
+          <expNode name="Bob" notes="" expanded="true">
+            <vars>
+              <exportedVariable>
+                <name>tester</name>
+                <type>UnityEngine.Vector2</type>
+                <wvalue>
+                  <valuestructure>
+                    <anyType xsi:type="xsd:float">0</anyType>
+                    <anyType xsi:type="xsd:float">0</anyType>
+                  </valuestructure>
+                </wvalue>
+              </exportedVariable>
+            </vars>
+            <children />
+          </expNode>
+        </children>
+      </expNode>
+    </children>
+  </RootNode>
+</BehaviorTree>
